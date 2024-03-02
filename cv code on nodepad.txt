@@ -1,0 +1,95 @@
+<html>
+<head>
+<title>CV Code</title><b><h1><i><u>Make CV on html</u></i></h1></b>
+</head>
+<body>
+
+<table>
+           <tr>
+                  <td><center><h1>MY RESUME</h1></center></td>
+          </tr>
+<tr>
+    <td><img src="G:\DOWNLOAD\hp\Downloads\huma sarfraz.jpeg"</td>
+<tr>
+                  <td><b>Huma Sarfraz</b><br></td>
+</tr>
+<tr>
+     <td><div><ul>
+                            <li>web engineer scientist<br></li>
+                             <li>with good gpa and understanding of my education, i bring a deep understanding of data structures, different analysis, and modern software stacks.<br></li>
+                              <li>humasarfraz4455@gmail.com<br></li>
+                              <li>923096356494<br></li>
+                               <li>sialkot, pakistan<br><br></li></td>
+ </tr>
+           <tr>
+                  <td><b>EDUCATION</b><br></td>
+</tr>
+  <tr>
+        <td><div><ul>
+                                   <li><b>B.S computer science</b><br>
+university of sialkot
+10/2021 - Present, 2021-2024 Sialkot<br></li>
+                 <li><b>Intermediate</b><br>
+punjab college sialkot<br></td>
+          </tr>
+               <tr>
+                  <td><b>WORK EXPERIENCE</b><br></td>
+</tr>
+<tr>
+     <td><div><ul>
+                     <li>Teacher at school<br></li>
+                   <li>12/2020 - 04/2021, sialkot<br></li>
+                        <li>Dare Arqam school<br></li>
+               <li>Doing hard working on my students to polish their skills<br></li></td>
+                     
+     </tr>
+             <tr>
+                  <td><b>SKILLS</b><br>
+programming<br>
+java , SQL, Python <br> Matplotlib , Numpy
+SQL Server , SQL
+profiler , Azure<br>
+software development
+graphics designing<br><br></td>
+          </tr>
+       <tr>
+          <td><b>CERTIFICATES</b><br>
+Graphics designing certificate (05/2020 - 07/2020)<br><br>
+<b>PERSONAL PROJECTS</b><br>
+no personal project yet<br><br>
+<b>ACHIEVEMENTS</b><br>
+cisco certified graphics achieved (07/2020)<br><br></td>
+               </tr>
+       <tr>
+          <td><b>LANGUAGES</b><br></td>
+</tr>
+   <tr>
+        <td><div><ul>
+                              <li> ENGLISH<br></li>
+                              Full Professional Proficiency<br>
+                              <li>URDU<br></li>
+                                 Native or Bilingual Proficiency<br>
+                                  <li>PUNJABI<br></li>
+       Professional Working Proficiency<br><br></td>
+           </tr>
+
+
+
+
+       <tr>
+              <td><b>INTERESTS</b><br>
+              <div>
+                     <ol><li>Algorithm Development</li>
+                     <li>love to watch cricket</li>
+                       <li>love to play badminton</li>
+                       <li>book reading</li></ol>
+            </div>
+     </td>
+
+
+       </tr>
+
+
+</table>
+</body>
+</html>
